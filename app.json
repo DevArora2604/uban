@@ -7,13 +7,7 @@
         "PYRO_SESSION": {
         "description": "An Pyrogram old session if Uh Want To Use In Userbot"
         "required": false,
-        "value": "None"
         },
     },
-    "formation": {
-            "worker": {
-                "quantity": 1,
-                "size": "eco"
-            }
-        }
+    "stack": "container"
   }
